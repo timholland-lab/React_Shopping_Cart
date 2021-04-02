@@ -73,7 +73,7 @@ export class DataProvider extends Component {
         _id: "6",
         title: "Nike Shoes 06",
         src:
-          "https://i.guim.co.uk/img/media/2e676840a05e37e19a2dac049e9757d5b29d5993/0_254_3506_2104/master/3506.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=c043f22ac97af36e2daf811c76d65d86",
+          "https://hips.hearstapps.com/esquireuk.cdnds.net/15/37/2048x2730/2048x2730-cameron-diaz-the-mask-red-dress-43-jpg-349d543d.jpg?resize=480:*",
         description: "UI/UX designing, html css tutorials",
         content:
           "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
