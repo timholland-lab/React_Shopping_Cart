@@ -77,7 +77,7 @@ export class DataProvider extends Component {
         description: "UI/UX designing, html css tutorials",
         content:
           "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
-        price: 17,
+        price: 17000,
         colors: ["orange", "black", "crimson", "teal"],
         count: 1,
         alt: "alan partridge",
